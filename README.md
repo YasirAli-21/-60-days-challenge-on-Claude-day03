@@ -54,6 +54,32 @@ This repository documents my journey through the **60 Days of AI Challenge**, wh
 - Structured prompts generate more useful responses
 - Prompt Engineering is a critical skill for working effectively with AI
 
+
+- ### Day 3 - Role-Based Prompting
+
+- Learned the concept of Role-Based Prompting
+- Compared AI responses using different personas
+- Explored how assigning a role changes the quality and perspective of AI outputs
+- Generated a LinkedIn-ready infographic on Role-Based Prompting
+- Documented prompts, outputs, and key observations
+
+#### Key Learnings
+
+- AI responses become more relevant when a specific role is assigned
+- Different personas provide different perspectives on the same question
+- Role-Based Prompting improves context, accuracy, and usefulness
+- The quality of AI outputs depends heavily on the instructions provided
+
+#### Biggest Observation
+
+The same question produced significantly different answers when different personas were assigned. A Founder focused on strategy and growth, while a Developer focused on implementation and technical execution. This demonstrated how Role-Based Prompting can transform generic responses into expert-level guidance.
+
+- [x] Day 1 - AI Personality Profile
+- [x] Day 2 - Prompt Engineering
+- [x] Day 3 - Role-Based Prompting
+- [ ] Day 4
+- [ ] Day 5
+
 ## 🌱 Future Focus
 
 - Generative AI
